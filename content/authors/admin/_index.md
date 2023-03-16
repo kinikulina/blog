@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Ksenia Nikulina
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Ksenia
+last_name: Nikulina
 
 # Status emoji
 status:
@@ -14,21 +14,22 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: RUDN
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
+
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mathematics
+  - Number theory
+  - Analitics
 
 # Education to show in About widget
 education:
@@ -80,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ksenia Nikulina is a bachelor's student at the Russian University of Peoples' Friendship at the Faculty of Physics, Mathematics and Natural Sciences in the direction: Mathematics.  Her research interests include number theory and elementary mathematics.
 {style="text-align: justify;"}
